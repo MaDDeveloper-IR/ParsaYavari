@@ -4,7 +4,7 @@
 
 ### Platforms
 
-[![Windows](https://img.shields.io/badge/Windows-10-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
+[![Windows](https://img.shields.io/badge/Windows-11-4e9eee?style=flat-square&logo=windows&logoColor=ffffff)](https://www.microsoft.com/windows/windows-11)
 [![Android](https://img.shields.io/badge/Android-14-3DDC84?style=flat-square&logo=android&logoColor=white)](https://www.android.com/)
 
 #### Main Tools
